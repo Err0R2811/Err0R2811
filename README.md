@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Virpara</h1>
 <h3 align="center">Backend-focused AI Developer | Building practical AI-powered products with FastAPI & Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=err0r2811&label=Profile%20views&color=0e75b6&style=flat" alt="err0r2811" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=err0r2811" alt="err0r2811" /></a> </p>
-
 - 🔭 I’m currently working on **Whatsapp-Store-Builder**
 
 - 🌱 I’m currently learning **Production-grade AI integration, vector databases, FastAPI optimization, and scalable backend systems.**
@@ -20,6 +16,11 @@
 - 📫 How to reach me **amitvirpara@outlook.com**
 
 - ⚡ Fun fact **I enjoy building AI products that solve real workflow problems instead of adding AI just for hype.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=err0r2811&label=Profile%20views&color=0e75b6&style=flat" alt="err0r2811" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=err0r2811" alt="err0r2811" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
