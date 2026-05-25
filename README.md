@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Virpara</h1>
 <h3 align="center">Backend-focused AI Developer | Building practical AI-powered products with FastAPI & Python</h3>
 
+
+
 - 🔭 I’m currently working on **Whatsapp-Store-Builder**
 
 - 🌱 I’m currently learning **Production-grade AI integration, vector databases, FastAPI optimization, and scalable backend systems.**
@@ -35,6 +37,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=err0r2811&show_icons=true&locale=en&layout=compact" alt="err0r2811" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=err0r2811&show_icons=true&locale=en" alt="err0r2811" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=err0r2811&" alt="err0r2811" /></p>
