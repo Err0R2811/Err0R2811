@@ -1,5 +1,5 @@
-#<h1 align="center">Hi 👋, I'm Amit Virpara</h1>
-#<h3 align="center">Backend-focused AI Developer | Building practical AI-powered products with FastAPI & Python</h3>
+##<h1 align="center">Hi 👋, I'm Amit Virpara</h1>
+##<h3 align="center">Backend-focused AI Developer | Building practical AI-powered products with FastAPI & Python</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Whatsapp-Store-Builder<br><br>🌱 I’m currently learning Production-grade AI integration, vector databases, FastAPI optimization, and scalable backend systems.<br><br>👯 I’m looking to collaborate on AI-integrated backend systems, automation tools, and scalable APIs.<br><br>🤝 I’m looking for help with Advanced AI engineering. concepts, RAG pipelines, LLM orchestration, and deployment architectures<br><br>👨‍💻 All of my projects are available at amitvirpara.netlify.app<br><br>💬 Ask me about Python, FastAPI, Machine Learning, Data Science, Backend Development, and UI/UX.<br><br>📫 How to reach me amitvirpara@outlook.com<br><br>⚡ Fun fact I enjoy building AI products that solve real workflow problems instead of adding AI just for hype.<br><br>
