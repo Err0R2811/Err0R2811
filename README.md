@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amit Virpara</h1>
-<h3 align="center">Backend-focused AI Developer | Building practical AI-powered products with FastAPI & Python</h3>
+#<h1 align="center">Hi 👋, I'm Amit Virpara</h1>
+#<h3 align="center">Backend-focused AI Developer | Building practical AI-powered products with FastAPI & Python</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Whatsapp-Store-Builder<br><br>🌱 I’m currently learning Production-grade AI integration, vector databases, FastAPI optimization, and scalable backend systems.<br><br>👯 I’m looking to collaborate on AI-integrated backend systems, automation tools, and scalable APIs.<br><br>🤝 I’m looking for help with Advanced AI engineering. concepts, RAG pipelines, LLM orchestration, and deployment architectures<br><br>👨‍💻 All of my projects are available at amitvirpara.netlify.app<br><br>💬 Ask me about Python, FastAPI, Machine Learning, Data Science, Backend Development, and UI/UX.<br><br>📫 How to reach me amitvirpara@outlook.com<br><br>⚡ Fun fact I enjoy building AI products that solve real workflow problems instead of adding AI just for hype.<br><br>
@@ -15,16 +15,10 @@
 ![](https://streak-stats.demolab.com/?user=Err0R2811&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Err0R2811&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Err0R2811&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Err0R2811&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=Err0R2811&icon=10&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Err0R2811&icon=10&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
